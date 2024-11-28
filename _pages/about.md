@@ -59,7 +59,7 @@ The emergence of large language models (LLMs) has significantly improved our abi
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Nirav Pravinbhai Bhatt" position="Assistant Professor" affiliation="IIT Madras, India" url="https://biotech.iitm.ac.in/faculty/nirav-p-bhatt/" img="assets/img/organizers/nirav.png" %}
-  {% include people_horizontal.html name="Hyun-Seob Song" position="Associate Professor" affiliation="University of Nebraska-Lincoln, USA" url="https://bse.unl.edu/faculty/hyun-seob-song" img="assets/img/organizers/hyun-seob-song.jpg" %}
+  {% include people_horizontal.html name="Roshan M S B" position="PhD Scholar" affiliation="IIT Madras, India" url="https://roshanmsb.github.io/" img="assets/img/organizers/roshan.jpg" %}
   {% include people_horizontal.html name="Sridharakumar Narasimhan" position="Professor" affiliation="IIT Madras, India" url="https://che.iitm.ac.in/sridharkrn/" img="assets/img/organizers/sridharan.png" %}
   {% include people_horizontal.html name="Manokaran V" position="Postdoctoral Fellow" affiliation="University of Nebraska-Lincoln, USA" url="https://in.linkedin.com/in/manokaran-veeramani-62b07968" img="assets/img/organizers/manokaran.jpeg" %}
 </div>

@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: IFAC World Congress 2023 (Workshop) # the website title (if blank, full name will be used instead)
+title: ICSB 2024 Workshop # the website title (if blank, full name will be used instead)
 first_name: abc
 middle_name: b
 last_name: c
 email: niravbhatt@iitm.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Staging website for IFAC 2023 Workshop
+  Staging website for ICSB 2024 Workshop
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icsb_favicon.webp  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://bisect-group.github.io # the base hostname & protocol for your site
-baseurl: /ifac2023 # the subpath of your site, e.g. /blog/
+baseurl: /icsb2024 # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
