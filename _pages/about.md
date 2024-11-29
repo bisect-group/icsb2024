@@ -36,40 +36,22 @@ The emergence of large language models (LLMs) has significantly improved our abi
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | <img width=200/>             | <img width=200/>                                                                                                               | <img width=200/>                                                |
 | **Day 1**                    |                                                                                                                                |                                                                  |
-| 2:00 - 2:45 PM               | Unlocking Biomedical Texts: The Power of Large Language Models (Lecture)                                                       | Dr. Nirav                                                      |
-|                              | - Introduction to workshop                                                                                                     |                                                                  |
-|                              | - Biological texts, clinical records                                                                                           |                                                                  |
-|                              | - Motivation 1: Knowledge Graph                                                                                               |                                                                  |
-|                              | - Motivation 2: Text summarization                                                                                            |                                                                  |
-|                              | - After this workshop, you will be able to …                                                                                   |                                                                  |
-| 2:45 - 3:45 PM               | How do Large Language Models work? (Lecture + Hands-on)                                                                        | Roshan                                                         |
-|                              | - Tokenization, Word normalization, Lemmatization, Stemming, Sentence segmentation                                             |                                                                  |
-|                              | - How do Transformers work? Attention mechanism, multi-head attention, Transformer architecture                                |                                                                  |
+| 2:00 - 2:45 PM               | Unlocking Biomedical Texts: The Power of Large Language Models (Lecture)                                                       | Dr. Nirav Bhatt                                                |
+| 2:45 - 3:45 PM               | How do Large Language Models Work? (Lecture + Hands-on)                                                                        | Roshan                                                         |
 | 3:30 - 3:45 PM               | Break                                                                                                                          |                                                                  |
 | 3:45 - 5:00 PM               | Extracting Information from Unstructured Biological Texts Using LLMs (Lecture + Hands-on)                                     | Rajeeva, Pavan                                                 |
-|                              | - Overview of existing bio-LLMs                                                                                                |                                                                  |
-|                              | - BLURB, MIMIC dataset                                                                                                         |                                                                  |
-|                              | - How to build a knowledge graph                                                                                               |                                                                  |
 | **Day 2**                    |                                                                                                                                |                                                                  |
-| 9:00 - 10:15 AM              | LLMs in the Healthcare Industry (Lecture + Hands-on)                                                                           | Dr. Sudarsun                                                   |
-|                              | - Train a small GPT for healthcare corpora                                                                                     |                                                                  |
-|                              | - Demo of Explainability on ICD10 classification task                                                                          |                                                                  |
-|                              | - Bias and Limitations of LLMs                                                                                                 |                                                                  |
+| 9:00 - 10:15 AM              | LLMs in the Healthcare Industry (Lecture + Hands-on)                                                                           | Dr. Sudarsun Santhiappan                                       |
 | 10:15 - 10:30 AM             | Break                                                                                                                          |                                                                  |
 | 10:30 - 12:00 PM             | Project Discussion                                                                                                             | Roshan, Rajeeva, Pavan                                         |
-|                              | - Simple RAG (Pavan)                                                                                                           |                                                                  |
-|                              | - Domain Adaptation (Rajeeva)                                                                                                  |                                                                  |
-|                              | - LLM Prompting (Dr. Sudarsun)                                                                                                 |                                                                  |
-|                              | - Summarization (Pavan)                                                                                                        |                                                                  |
-|                              | - Knowledge Graph (Rajeeva)                                                                                                    |                                                                  |
 
 &nbsp;
 
 ## Important Instructions
-1. Bring your laptop
+1. Ensure you have your laptop with you for the workshop.
 2. Make sure your laptop is fully charged to avoid any disruptions during the session.
-3. Familiarize yourself with Google Colab
-4.  If you have any questions or concerns, feel free to reach out to us at the following email addresses: [bt21d401@smail.iitm.ac.in](bt21d401@smail.iitm.ac.in), [spavaniitm@smail.iitm.ac.in](spavaniitm@smail.iitm.ac.in), [rajeeva@smail.iitm.ac.in](rajeeva@smail.iitm.ac.in)
+3. Please take some time to explore and get familiar with Google Colab before the workshop to ensure a smooth experience.
+4. If you have any questions or concerns, feel free to reach out to us at the following email addresses: [bt21d401@smail.iitm.ac.in](bt21d401@smail.iitm.ac.in), [spavaniitm@smail.iitm.ac.in](spavaniitm@smail.iitm.ac.in), [rajeeva@smail.iitm.ac.in](rajeeva@smail.iitm.ac.in)
 
 
 &nbsp;
@@ -78,7 +60,7 @@ The emergence of large language models (LLMs) has significantly improved our abi
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Dr. Nirav Pravinbhai Bhatt" position="Assistant Professor" affiliation="IIT Madras, India" url="https://biotech.iitm.ac.in/faculty/nirav-p-bhatt/" img="assets/img/organizers/nirav.webp" %}
-  {% include people_horizontal.html name="Dr. Sudarsun Santhiappan" position="PhD Scholar" affiliation="IIT Madras, India" url="https://in.linkedin.com/in/sudarsun" img="assets/img/organizers/sudarsun.webp" %}
+  {% include people_horizontal.html name="Dr. Sudarsun Santhiappan" position="Guest Faculty" affiliation="IIT Madras, India" url="https://in.linkedin.com/in/sudarsun" img="assets/img/organizers/sudarsun.webp" %}
   {% include people_horizontal.html name="Roshan M S B" position="PhD Scholar" affiliation="IIT Madras, India" url="https://roshanmsb.github.io/" img="assets/img/organizers/roshan.webp" %}
   {% include people_horizontal.html name="S Pavan Kumar" position="PhD Scholar" affiliation="IIT Madras, India" url="https://scholar.google.com/citations?user=kIOdNwQAAAAJ&hl=en" img="assets/img/organizers/pavan.webp" %}
   {% include people_horizontal.html name="Rajeeva Lokshanan" position="PhD Scholar" affiliation="IIT Madras, India" url="https://ibse.iitm.ac.in/people/rajeeva/" img="assets/img/organizers/rajeeva.webp" %}
