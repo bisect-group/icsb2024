@@ -32,36 +32,56 @@ The emergence of large language models (LLMs) has significantly improved our abi
 
 &nbsp;
 
-| <font size = 5> Time </font> | <font size = 5> Topic </font>                                                                                                    | <font size = 5> Speakers </font>                                    |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img width=200/>             | <img width=200/>                                                                                                                 | <img width=200/>                                                    |
-| 08:30 - 08.40                | Welcome and introduction to the workshop and speakers                                                                            | Nirav Bhatt, Manokaran V., Hyun-Seob Song, Sridharakumar Narasimhan |
-| 08:40 - 09:15                | [Modeling of chemical and biological systems using first-principles models](https://drive.google.com/file/d/1oForYFsh2QvIfRysUTxc2tl_9579bnMD/view?usp=drive_link)                                                        | Nirav Bhatt, IIT Madras, India                                      |
-| 09:15 - 10:00                | [Dynamic models of biological systems](https://drive.google.com/file/d/1ozGhdxorX11rjJK1Fm9iIF-f_EaNd8gR/view?usp=drive_link)                                                                                             | Hyun-Seob Song, University of Nebraska-Lincoln, USA                 |
-| 10:00 - 10:15                | Discussion                                                                                                                       |                                                                     |
-| 10:30 - 12:00                | [Hands-on session: AUMIC - Mano, Simulation of Kompala model](https://github.com/hyunseobsong/aumic)                             | Manokaran V., University of Nebraska-Lincoln, USA
-|                              | [Data Set](https://drive.google.com/drive/folders/1DbnTuJpwJ9cCIkfjH4tbAKWHHZM1r10E)                                             |
-| 13.30 - 14:15                | [Structural and parameter identifiability of reaction systems and measurements](https://drive.google.com/file/d/1rqYqG5Qnos5omJp72GAGuLOT7W3pVqpY/view?usp=drive_link)                                                    | Sridharakumar Narasimhan, IIT Madras, India                         |
-| 14:15 - 15:00                | [Incremental model identification for chemical and biological reaction systems](https://drive.google.com/file/d/1eOvOYpcB6r0snVmtUMBH7NoMz82qRRd8/view?usp=drive_link)                                                    | Nirav Bhatt, IIT Madras, India                                      |
-| 15:15 - 16:15                | [Hands-on session: Incremental modeling and  state estimation](https://github.com/Wickkey/Dual_Degree_Project)                   | Nirav Bhatt/Sridharkumar Narasimhan, IIT Madras, India              |
-| 16:15 - 16:45                | [Metabolic modeling for biotechnology applications: Parameter identification using AUMIC](https://github.com/hyunseobsong/aumic) | Manokaran V., University of Nebraska-Lincoln, USA                   |
-| 16:45 - 17:00                | Discussion and networking                                                                                                        |                                                                     |
+| <font size=5> Time </font>   | <font size=5> Topic </font>                                                                                                    | <font size=5> Speakers </font>                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| <img width=200/>             | <img width=200/>                                                                                                               | <img width=200/>                                                |
+| **Day 1**                    |                                                                                                                                |                                                                  |
+| 2:00 - 2:45 PM               | Unlocking Biomedical Texts: The Power of Large Language Models (Lecture)                                                       | Dr. Nirav                                                      |
+|                              | - Introduction to workshop                                                                                                     |                                                                  |
+|                              | - Biological texts, clinical records                                                                                           |                                                                  |
+|                              | - Motivation 1: Knowledge Graph                                                                                               |                                                                  |
+|                              | - Motivation 2: Text summarization                                                                                            |                                                                  |
+|                              | - After this workshop, you will be able to …                                                                                   |                                                                  |
+| 2:45 - 3:45 PM               | How do Large Language Models work? (Lecture + Hands-on)                                                                        | Roshan                                                         |
+|                              | - Tokenization, Word normalization, Lemmatization, Stemming, Sentence segmentation                                             |                                                                  |
+|                              | - How do Transformers work? Attention mechanism, multi-head attention, Transformer architecture                                |                                                                  |
+| 3:30 - 3:45 PM               | Break                                                                                                                          |                                                                  |
+| 3:45 - 5:00 PM               | Extracting Information from Unstructured Biological Texts Using LLMs (Lecture + Hands-on)                                     | Rajeeva, Pavan                                                 |
+|                              | - Overview of existing bio-LLMs                                                                                                |                                                                  |
+|                              | - BLURB, MIMIC dataset                                                                                                         |                                                                  |
+|                              | - How to build a knowledge graph                                                                                               |                                                                  |
+| **Day 2**                    |                                                                                                                                |                                                                  |
+| 9:00 - 10:15 AM              | LLMs in the Healthcare Industry (Lecture + Hands-on)                                                                           | Dr. Sudarsun                                                   |
+|                              | - Train a small GPT for healthcare corpora                                                                                     |                                                                  |
+|                              | - Demo of Explainability on ICD10 classification task                                                                          |                                                                  |
+|                              | - Bias and Limitations of LLMs                                                                                                 |                                                                  |
+| 10:15 - 10:30 AM             | Break                                                                                                                          |                                                                  |
+| 10:30 - 12:00 PM             | Project Discussion                                                                                                             | Roshan, Rajeeva, Pavan                                         |
+|                              | - Simple RAG (Pavan)                                                                                                           |                                                                  |
+|                              | - Domain Adaptation (Rajeeva)                                                                                                  |                                                                  |
+|                              | - LLM Prompting (Dr. Sudarsun)                                                                                                 |                                                                  |
+|                              | - Summarization (Pavan)                                                                                                        |                                                                  |
+|                              | - Knowledge Graph (Rajeeva)                                                                                                    |                                                                  |
 
 &nbsp;
 
 ## Important Instructions
-1. Installation of [MATLAB](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html) prior to workshop is recommended
-2. Download [AUMIC](https://github.com/hyunseobsong/aumic) from GitHub and follow the steps for installation
+1. Bring your laptop
+2. Make sure your laptop is fully charged to avoid any disruptions during the session.
+3. Familiarize yourself with Google Colab
+4.  If you have any questions or concerns, feel free to reach out to us at the following email addresses: [bt21d401@smail.iitm.ac.in](bt21d401@smail.iitm.ac.in), [spavaniitm@smail.iitm.ac.in](spavaniitm@smail.iitm.ac.in), [rajeeva@smail.iitm.ac.in](rajeeva@smail.iitm.ac.in)
+
 
 &nbsp;
 
 ## Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Nirav Pravinbhai Bhatt" position="Assistant Professor" affiliation="IIT Madras, India" url="https://biotech.iitm.ac.in/faculty/nirav-p-bhatt/" img="assets/img/organizers/nirav.png" %}
-  {% include people_horizontal.html name="Roshan M S B" position="PhD Scholar" affiliation="IIT Madras, India" url="https://roshanmsb.github.io/" img="assets/img/organizers/roshan.jpg" %}
-  {% include people_horizontal.html name="Sridharakumar Narasimhan" position="Professor" affiliation="IIT Madras, India" url="https://che.iitm.ac.in/sridharkrn/" img="assets/img/organizers/sridharan.png" %}
-  {% include people_horizontal.html name="Manokaran V" position="Postdoctoral Fellow" affiliation="University of Nebraska-Lincoln, USA" url="https://in.linkedin.com/in/manokaran-veeramani-62b07968" img="assets/img/organizers/manokaran.jpeg" %}
+  {% include people_horizontal.html name="Dr. Nirav Pravinbhai Bhatt" position="Assistant Professor" affiliation="IIT Madras, India" url="https://biotech.iitm.ac.in/faculty/nirav-p-bhatt/" img="assets/img/organizers/nirav.webp" %}
+  {% include people_horizontal.html name="Dr. Sudarsun Santhiappan" position="PhD Scholar" affiliation="IIT Madras, India" url="https://in.linkedin.com/in/sudarsun" img="assets/img/organizers/sudarsun.webp" %}
+  {% include people_horizontal.html name="Roshan M S B" position="PhD Scholar" affiliation="IIT Madras, India" url="https://roshanmsb.github.io/" img="assets/img/organizers/roshan.webp" %}
+  {% include people_horizontal.html name="S Pavan Kumar" position="PhD Scholar" affiliation="IIT Madras, India" url="https://scholar.google.com/citations?user=kIOdNwQAAAAJ&hl=en" img="assets/img/organizers/pavan.webp" %}
+  {% include people_horizontal.html name="Rajeeva Lokshanan" position="PhD Scholar" affiliation="IIT Madras, India" url="https://ibse.iitm.ac.in/people/rajeeva/" img="assets/img/organizers/rajeeva.webp" %}
 </div>
 
 ---
