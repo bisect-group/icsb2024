@@ -32,27 +32,18 @@ The emergence of large language models (LLMs) has significantly improved our abi
 
 &nbsp;
 
-| <font size=5> Time </font>   | <font size=5> Topic </font>                                                                                                    | <font size=5> Speakers </font>                                    |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| <img width=200/>             | <img width=200/>                                                                                                               | <img width=200/>                                                |
-| **Day 1**                    |                                                                                                                                |                                                                  |
-| 2:00 - 2:45 PM               | Unlocking Biomedical Texts: The Power of Large Language Models (Lecture)                                                       | Dr. Nirav Bhatt                                                |
-| 2:45 - 3:45 PM               | How do Large Language Models Work? (Lecture + Hands-on)                                                                        | Roshan                                                         |
-| 3:30 - 3:45 PM               | Break                                                                                                                          |                                                                  |
-| 3:45 - 5:00 PM               | Extracting Information from Unstructured Biological Texts Using LLMs (Lecture + Hands-on)                                     | Rajeeva, Pavan                                                 |
-| **Day 2**                    |                                                                                                                                |                                                                  |
-| 9:00 - 10:15 AM              | LLMs in the Healthcare Industry (Lecture + Hands-on)                                                                           | Dr. Sudarsun Santhiappan                                       |
-| 10:15 - 10:30 AM             | Break                                                                                                                          |                                                                  |
-| 10:30 - 12:00 PM             | Project Discussion                                                                                                             | Roshan, Rajeeva, Pavan                                         |
-
-&nbsp;
-
-## Important Instructions
-1. Ensure you have your laptop with you for the workshop.
-2. Make sure your laptop is fully charged to avoid any disruptions during the session.
-3. Please take some time to explore and get familiar with Google Colab before the workshop to ensure a smooth experience.
-4. If you have any questions or concerns, feel free to reach out to us at the following email addresses: [bt21d401@smail.iitm.ac.in](bt21d401@smail.iitm.ac.in), [spavaniitm@smail.iitm.ac.in](spavaniitm@smail.iitm.ac.in), [rajeeva@smail.iitm.ac.in](rajeeva@smail.iitm.ac.in)
-
+| <font size=5> Time </font>   | <font size=5> Topic </font>                                                     | <font size=5> Session Type </font>       | <font size=5> Speakers </font>                 |
+| ---------------------------- | ------------------------------------------------------------------------------- | -------------------------------- | --------------------------------------------- |
+| <img width=200/>             | <img width=200/>                                                                | <img width=200/>                  | <img width=200/>                              |
+| **Day 1**                    |                                                                                 |                                  |                                               |
+| 2:00 - 2:45 PM               | Unlocking Biomedical Texts: The Power of Large Language Models                  | Lecture                          | Dr. Nirav Bhatt                              |
+| 2:45 - 3:45 PM               | How do Large Language Models Work?                                              | Lecture + Hands-on               | Roshan                                       |
+| 3:30 - 3:45 PM               | Break                                                                           | Break                            |                                               |
+| 3:45 - 5:00 PM               | Extracting Information from Unstructured Biological Texts Using LLMs            | Lecture + Hands-on               | Rajeeva, Pavan                               |
+| **Day 2**                    |                                                                                 |                                  |                                               |
+| 9:00 - 10:15 AM              | LLMs in the Healthcare Industry                                                 | Lecture + Hands-on               | Dr. Sudarsun Santhiappan                     |
+| 10:15 - 10:30 AM             | Break                                                                           | Break                            |                                               |
+| 10:30 - 12:00 PM             | Project Discussion                                                              | Discussion                       | Roshan, Rajeeva, Pavan                       |
 
 &nbsp;
 
